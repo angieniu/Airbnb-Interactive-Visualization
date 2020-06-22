@@ -21,10 +21,10 @@ avalibility_365}
 
 ## Audience Analysis
   Host Expectations from visualizing this dataset
-### Price range
-### Popular locations
-### Popular room types
-### Strategy to set listing rules (minimum night etc.)
+· Price range
+· Popular locations
+· Popular room types
+· Strategy to set listing rules (minimum night etc.)
 
 ## Specific Questions to Explore
 1. How many B&Bs in each of the neighborhood?
@@ -35,8 +35,7 @@ avalibility_365}
 
    a. Price range displayed by box-and-whisker plot.
    
-   b. The map displaying the housing price by neighborhoods, which assists people to locate the neighborhood they can afford. This chart       can be controlled by filter (housing type, rating scores, review number per month). When users’ mouses are over the map, the   
-      tooltips will display certain neighborhood’s median price and neighborhood name.
+   b. The map displaying the housing price by neighborhoods, which assists people to locate the neighborhood they can afford. This chart       can be controlled by filter (housing type, rating scores, review number per month). When users’ mouses are over the map, the tooltips will display certain neighborhood’s median price and neighborhood name.
       
 3. What type of airbnb is most cost-efficient (lowest $/person)?
 
