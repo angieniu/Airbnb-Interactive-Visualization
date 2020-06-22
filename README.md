@@ -1,9 +1,9 @@
-# Airbnb-Interactive-Visualization
-Code in gh-pages Branch: https://github.com/angieniu/Airbnb-Interactive-Visualization/tree/gh-pages
+# Seattle-Airbnb-Rental-Analysis-Interactive-Data-Visualization
+Code in gh-pages Branch: https://github.com/angieniu/Seattle-Airbnb-Rental-Analysis-Interactive-Data-Visualization/tree/gh-pages
 
-Demo: https://angieniu.github.io/Airbnb-Interactive-Visualization/
+Demo: https://angieniu.github.io/Seattle-Airbnb-Rental-Analysis-Interactive-Data-Visualization/
 
-Tableau: https://github.com/angieniu/Airbnb-Interactive-Visualization/blob/master/Seattle%20Airbnb%20Rental%20Analysis.twbx
+Tableau: https://github.com/angieniu/Seattle-Airbnb-Rental-Analysis-Interactive-Data-Visualization/blob/master/Seattle%20Airbnb%20Rental%20Analysis.twbx
 
 Seattle Airbnb Rental Analysis
 
