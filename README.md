@@ -20,11 +20,12 @@ room_type, price, minimum_nights, number_of_reviews, review_per_month,
 avalibility_365}
 
 ## Audience Analysis
-      Expectations from visualizing this dataset
-Host ● Price range
-     ● Popular locations
-     ● Popular room types
-     ● Strategy to set listing rules (minimum night etc.)
+     | Expectations from visualizing this dataset
+------------ | -------------
+Host | Price range
+     | Popular locations
+     | Popular room types
+     | Strategy to set listing rules (minimum night etc.)
 
 ## Specific Questions to Explore
 1. How many B&Bs in each of the neighborhood?
