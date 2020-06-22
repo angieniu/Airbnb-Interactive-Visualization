@@ -3,7 +3,7 @@ Code in gh-pages Branch: https://github.com/angieniu/Airbnb-Interactive-Visualiz
 
 Demo: https://angieniu.github.io/Airbnb-Interactive-Visualization/
 
-Tableau:
+Tableau: https://github.com/angieniu/Airbnb-Interactive-Visualization/blob/master/Seattle%20Airbnb%20Rental%20Analysis.twbx
 
 Seattle Airbnb Rental Analysis
 
