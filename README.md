@@ -3,6 +3,8 @@ Code in gh-pages Branch: https://github.com/angieniu/Airbnb-Interactive-Visualiz
 
 Demo: https://angieniu.github.io/Airbnb-Interactive-Visualization/
 
+Tableau:
+
 Seattle Airbnb Rental Analysis
 
 Group Members: Yanjie Niu, Wenxian Fei, Tianxin Song, Wei Wang, Xiaohua Shi
