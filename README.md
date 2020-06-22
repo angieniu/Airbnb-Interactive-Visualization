@@ -60,3 +60,4 @@ avalibility_365}
 7. Which neighborhoods/neighborhood groups have more popular B&Bs?
 
    a. B&Bs will be represented by dots on the map, the less availability in 365 days is, the deeper color the dots are. Can be filtered       by room type. Tooltips will show the room types, prices, neighborhoods/neighborhood groups.
+
