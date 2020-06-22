@@ -21,6 +21,7 @@ avalibility_365}
 
 ## Audience Analysis
   Host Expectations from visualizing this dataset
+  
 · Price range
 · Popular locations
 · Popular room types
